@@ -1,1 +1,1 @@
-# Workshop_FullStack
+# JavaScript Full Stack Workshop
